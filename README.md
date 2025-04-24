@@ -5,9 +5,13 @@ Welcome to my GitHub! I’m a dedicated Data Analyst passionate about unlocking 
 About Me 🧑‍💼
 
 ✅ Certified: CompTIA Data+, Microsoft Azure Fundamentals (AZ-900)
+
 💡 Expertise: Data Analysis, Data Engineering, Visualization, Machine Learning
+
 🛠 Tools: Python, SQL, Power BI, Tableau, Azure Data Factory, Databricks
+
 🏆 Achievements: High Scholastic Achievement Award in Graduate Studies. 
+
 🤝 Contributor: Mentored peers in advanced data visualization techniques
 
 My Work 🚀
@@ -15,8 +19,11 @@ My Work 🚀
 I thrive on transforming complex datasets into actionable solutions. From designing scalable pipelines to building intuitive dashboards, my projects showcase end-to-end data mastery:
 
 📊 Healthcare Dashboard: A dynamic Power BI tool for analyzing patient trends.
+
 📡 Churn Prediction Model: A Python-based ML solution on Azure to retain customers.
+
 🔗 Real-Time Pipeline: An Azure Data Factory pipeline for seamless data integration.
+
 
 Let’s Connect! 📩
 
