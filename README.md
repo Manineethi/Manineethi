@@ -1,4 +1,4 @@
-Hello, I’m Maninmozhi Neethinayagam (call me MANI)! 🌟
+Hello, I’m Manimozhi Neethinayagam (call me MANI)! 🌟
 
 Welcome to my GitHub! I’m a dedicated Data Analyst and Data Engineer passionate about unlocking insights from data. Holding a Master’s in Information Systems from California State University, Los Angeles, I leverage Python, SQL, Power BI, and Azure to craft robust data pipelines and impactful visualizations that drive business success.
 
